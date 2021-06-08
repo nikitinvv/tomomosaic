@@ -1,0 +1,7 @@
+{"pixel_size": 1.725,
+ "output_name": "/local/data/vnikitin/test.h5",
+ "0 0": "/local/data/2021-06/BYU304U_Sam2_BottomHAZ/data_raw_1x/BYU304U_Sam2_BottomHAZ_y0_x4.h5",    
+ "0 1": "/local/data/2021-06/BYU304U_Sam2_BottomHAZ/data_raw_1x/BYU304U_Sam2_BottomHAZ_y0_x3.h5",
+ "0 2": "/local/data/2021-06/BYU304U_Sam2_BottomHAZ/data_raw_1x/BYU304U_Sam2_BottomHAZ_y0_x2.h5",
+ "0 3": "/local/data/2021-06/BYU304U_Sam2_BottomHAZ/data_raw_1x/BYU304U_Sam2_BottomHAZ_y0_x1.h5"
+}
